@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.trimblecars.controllers.AuthControllerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-03-25T17:42:08.186Z" hostname="DESKTOP-UDGC57U" time="0.197">
+  <properties/>
+  <testcase name="testRegisterCustomer_Success()" classname="com.trimblecars.controllers.AuthControllerTest" time="0.18"/>
+  <testcase name="testRegisterCustomer_Failure_AlreadyExists()" classname="com.trimblecars.controllers.AuthControllerTest" time="0.004"/>
+  <testcase name="testRegisterOwner_Success()" classname="com.trimblecars.controllers.AuthControllerTest" time="0.005"/>
+  <testcase name="testRegisterAdmin_Success()" classname="com.trimblecars.controllers.AuthControllerTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

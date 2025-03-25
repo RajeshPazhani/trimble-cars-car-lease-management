@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.trimblecars.services.OwnerServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-25T17:42:01.139Z" hostname="DESKTOP-UDGC57U" time="0.024">
+  <properties/>
+  <testcase name="testEnrollCar()" classname="com.trimblecars.services.OwnerServiceTest" time="0.004"/>
+  <testcase name="testGetLeasedCarHistory()" classname="com.trimblecars.services.OwnerServiceTest" time="0.004"/>
+  <testcase name="testFindOwnerById_NotFound()" classname="com.trimblecars.services.OwnerServiceTest" time="0.007"/>
+  <testcase name="testGetOwnerCars()" classname="com.trimblecars.services.OwnerServiceTest" time="0.003"/>
+  <testcase name="testFindOwnerById_Found()" classname="com.trimblecars.services.OwnerServiceTest" time="0.003"/>
+  <system-out><![CDATA[Owner not found with ID: 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

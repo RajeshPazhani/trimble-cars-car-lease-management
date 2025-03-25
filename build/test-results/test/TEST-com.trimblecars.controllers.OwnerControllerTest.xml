@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.trimblecars.controllers.OwnerControllerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-03-25T17:41:58.780Z" hostname="DESKTOP-UDGC57U" time="2.331">
+  <properties/>
+  <testcase name="testEnrollCar()" classname="com.trimblecars.controllers.OwnerControllerTest" time="2.24"/>
+  <testcase name="testGetLeasedCarHistory()" classname="com.trimblecars.controllers.OwnerControllerTest" time="0.042"/>
+  <testcase name="testGetOwnerById()" classname="com.trimblecars.controllers.OwnerControllerTest" time="0.023"/>
+  <testcase name="testGetOwnerCars()" classname="com.trimblecars.controllers.OwnerControllerTest" time="0.025"/>
+  <system-out><![CDATA[23:11:59.342 [Test worker] INFO org.hibernate.validator.internal.util.Version -- HV000001: Hibernate Validator 8.0.2.Final
+23:12:00.724 [Test worker] INFO org.springframework.mock.web.MockServletContext -- Initializing Spring TestDispatcherServlet ''
+23:12:00.724 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Initializing Servlet ''
+23:12:00.733 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Completed initialization in 7 ms
+23:12:01.031 [Test worker] INFO org.springframework.mock.web.MockServletContext -- Initializing Spring TestDispatcherServlet ''
+23:12:01.031 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Initializing Servlet ''
+23:12:01.031 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Completed initialization in 0 ms
+Fetching lease history for Owner ID: 1
+Leases found: 1
+23:12:01.080 [Test worker] INFO org.springframework.mock.web.MockServletContext -- Initializing Spring TestDispatcherServlet ''
+23:12:01.080 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Initializing Servlet ''
+23:12:01.080 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Completed initialization in 0 ms
+23:12:01.097 [Test worker] INFO org.springframework.mock.web.MockServletContext -- Initializing Spring TestDispatcherServlet ''
+23:12:01.097 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Initializing Servlet ''
+23:12:01.097 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Completed initialization in 0 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

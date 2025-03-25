@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.trimblecars.controllers.CustomerControllerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-03-25T17:41:58.643Z" hostname="DESKTOP-UDGC57U" time="0.123">
+  <properties/>
+  <testcase name="testEndLease_Success()" classname="com.trimblecars.controllers.CustomerControllerTest" time="0.092"/>
+  <testcase name="testGetAvailableCars()" classname="com.trimblecars.controllers.CustomerControllerTest" time="0.006"/>
+  <testcase name="testGetLeaseHistory()" classname="com.trimblecars.controllers.CustomerControllerTest" time="0.009"/>
+  <testcase name="testLeaseCar_Success()" classname="com.trimblecars.controllers.CustomerControllerTest" time="0.012"/>
+  <system-out><![CDATA[Received Lease ID: 1
+Received Customer ID: 1
+Fetching lease history for Customer ID: 1
+Leases found: 1
+Received Registration No: MH12AB1234
+Received Customer ID: 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

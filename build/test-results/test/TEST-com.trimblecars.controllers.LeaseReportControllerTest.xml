@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.trimblecars.controllers.LeaseReportControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-25T17:42:08.390Z" hostname="DESKTOP-UDGC57U" time="0.08">
+  <properties/>
+  <testcase name="testExportLeaseHistory()" classname="com.trimblecars.controllers.LeaseReportControllerTest" time="0.08"/>
+  <system-out><![CDATA[2025-03-25T23:12:08.451+05:30  INFO 3312 --- [trimblecars] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2025-03-25T23:12:08.453+05:30  INFO 3312 --- [trimblecars] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-03-25T23:12:08.453+05:30  INFO 3312 --- [trimblecars] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

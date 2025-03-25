@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.trimblecars.services.CustomerServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-03-25T17:42:08.514Z" hostname="DESKTOP-UDGC57U" time="0.039">
+  <properties/>
+  <testcase name="testEndLease_Success()" classname="com.trimblecars.services.CustomerServiceTest" time="0.009"/>
+  <testcase name="testEndLease_Unauthorized()" classname="com.trimblecars.services.CustomerServiceTest" time="0.004"/>
+  <testcase name="testLeaseCar_CarNotAvailable()" classname="com.trimblecars.services.CustomerServiceTest" time="0.005"/>
+  <testcase name="testLeaseCar_ExceedLimit()" classname="com.trimblecars.services.CustomerServiceTest" time="0.004"/>
+  <testcase name="testGetAvailableCars()" classname="com.trimblecars.services.CustomerServiceTest" time="0.003"/>
+  <testcase name="testLeaseCar_Success()" classname="com.trimblecars.services.CustomerServiceTest" time="0.004"/>
+  <testcase name="testGetCustomerLeaseHistory()" classname="com.trimblecars.services.CustomerServiceTest" time="0.004"/>
+  <system-out><![CDATA[Finding leases for Customer ID: 1
+Lease count: 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
