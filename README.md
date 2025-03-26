@@ -25,7 +25,7 @@ It provides a platform for Car Owners, Customers, and Admins to manage car leasi
 
 ## Tech Stack Used
 ### Backend:
-• Java 17 - Programming language
+• Java 21 - Programming language
 • Spring Boot - Backend framework
 • Spring Data JPA - ORM for database operations
 • Hibernate - ORM implementation
